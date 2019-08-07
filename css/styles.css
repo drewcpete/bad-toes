@@ -2,12 +2,19 @@
   border: 3px solid purple ;
   width: 280px;
   float: right;
-
-
+  background-color: green;
+  color: red;
 }
-]
 span .wolf {
   font-style: italic;
   font-weight: bold;
-
+}
+li {
+  padding-top: 10px;
+}
+h1{
+  text-align: center;
+}
+body{
+  background-color: teal;
 }
